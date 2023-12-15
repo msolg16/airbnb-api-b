@@ -259,6 +259,6 @@ export const places = {
         "price": 275,
         "Latitud": 37.5665,
         "Longitud": 126.9780
-      ,
+      }
     ]
   }
